@@ -1,14 +1,14 @@
 @font-face {
   font-family: neue;
-  src: url(Font/NeueHaasDisplayMediu.ttf);
+  src: url(Font/NeueHaasDisplayMediu.woff2);
 }
 @font-face {
   font-family: neue-light;
-  src: url(Font/NeueHaasDisplayLight.ttf);
+  src: url(Font/NeueHaasDisplayLight.woff2);
 }
 @font-face {
   font-family: neue-thin;
-  src: url(Font/NeueHaasDisplayThin.ttf);
+  src: url(Font/NeueHaasDisplayThin.woff2);
 }
 
 * {
