@@ -1,3 +1,8 @@
+const scroll = new LocomotiveScroll({
+  el: document.querySelector("#main"),
+  smooth: true,
+});
+``;
 function pg4Animation() {
   var elem = document.querySelector("#elem-cont");
   var fix = document.querySelector("#fixed-image");
